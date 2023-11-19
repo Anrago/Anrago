@@ -2,7 +2,7 @@
 
 - 🌱 I’m **Software developer**
 
-- 💬 Interests: **Cybersecurity, video game development**
+- 💬 Interests: **Cybersecurity, video game development, Web development**
 
 - 📫 University: **Universidad Autonoma de Baja California**
 
