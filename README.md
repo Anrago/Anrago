@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Antonio</h1>
 
+<p align="center">
+  <img src="https://github.com/Anrago/Anrago/blob/main/Edit.png" alt="Texto_alternativo">
+</p>
+<h1 align="center">Hi 👋, I'm Antonio</h1>
 - 🌱 I’m **Software developer**
 
 - 💬 Interests: **Cybersecurity, video game development, Web development**
