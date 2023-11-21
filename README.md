@@ -3,7 +3,8 @@
   <img height="350" src="https://github.com/Anrago/Anrago/blob/main/Edit.png" alt="Texto_alternativo">
 </p>
 <h1 align="center">Hi 👋, I'm Antonio</h1>
-- 🌱 I’m **Software developer**
+
+- 🌱 I’m no soy por que al jorje no le gusta **Software developer**
 
 - 💬 Interests: **Cybersecurity, video game development, Web development**
 
