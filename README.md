@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 
-- 🌱 **Software engineering and emerging technologies student**
+- 🌱 **Software engineering student**
 
 - 💬 Interests: **Cybersecurity, video game development, Web development**
 
