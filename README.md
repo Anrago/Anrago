@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 
-- 🌱 I’m no soy por que al jorje no le gusta **Software developer**
+- 🌱 **Software engineering and emerging technologies student**
 
 - 💬 Interests: **Cybersecurity, video game development, Web development**
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/antonio ramos gonzalez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Antonio Ramos Gonzalez" height="30" width="40" /></a>
+
 <a href="https://instagram.com/anrago_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anrago_" height="30" width="40" /></a>
 </p>
 
